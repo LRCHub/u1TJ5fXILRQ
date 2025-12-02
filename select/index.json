@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "以心電信",
+  "base_artist": "ORANGE RANGE",
+  "createdAt": "2025-12-02T17:48:38.896147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "以心電信",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/01_以心電信_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "以心電信 (You've Got to Help Yourself)",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/02_以心電信_(You've_Got_to_Help_Yourself)_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "以心電信 (予告編)",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/03_以心電信_(予告編)_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "以心電信/YOU’VE GOT TO HELP YOURSELF",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/04_以心電信_YOU’VE_GOT_TO_HELP_YOURSELF_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "以心電信",
+      "artist": "ORANGE RANGE",
+      "has_synced": true,
+      "path": "select/05_以心電信_ORANGE_RANGE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "以心電信",
+      "artist": "Orange Range",
+      "has_synced": true,
+      "path": "select/06_以心電信_Orange_Range.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "以心電信 (LIVE ИATURAL ~from LIVE TOUR 005“ИATURAL”at YOKOHAMA ARENA 2005.12.13~)",
+      "artist": "Orange Range",
+      "has_synced": false,
+      "path": "select/07_以心電信_(LIVE_ИATURAL_~from_LIVE_TOUR_005“ИATURAL”at_YOKOHAMA_ARENA_2005.12.13~)_Orange_Range.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "以心電信",
+      "artist": "ORANGE RANGE",
+      "has_synced": false,
+      "path": "select/pl_01_以心電信_ORANGE_RANGE.txt"
+    }
+  ]
+}
